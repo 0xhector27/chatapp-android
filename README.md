@@ -17,7 +17,6 @@ This app is an example for chat app base on Google Firebase, messages are delive
 
 ### Create firebase console  
 * Following step by step in this link https://firebase.google.com/docs/android/setup  
-* Get full whitepaper "How to build advanced chat app with Firebase": https://goo.gl/forms/W5AOplhfVVwlfyFJ3
 
 ### How to thank me
 * Star this repository
